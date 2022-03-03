@@ -1,0 +1,41 @@
+body {
+    background-image: url(https://www.eucolo.com.br/wp-content/uploads/2017/09/papel-de-parede-adesivo-tijolo-claro-2.jpg);
+    font-family: Smooch Sans 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+
+  .descricao {
+    text-align: center;
+  }
+
+  .color-title {
+    color: brown;
+    font-family: Smooch Sans 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+
+  }
+
+  p {
+
+    line-height: 30px;
+    color: black;
+  }
+
+  h1 {
+
+    font: size 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+    font-weight: 100;
+  }
+
+  .picture {
+    border-radius: 50%;
+  }
+
+  .buttom {
+
+    background-color: gray;
+    padding: -1px;
+    text-decoration: none;
+  }
